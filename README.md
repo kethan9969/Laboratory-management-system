@@ -1,4 +1,4 @@
-# Lab Management System
+# Laboratory Management System
 
 A full-stack lab inventory management application with role-based dashboards for administrators, technicians, and researchers.
 
